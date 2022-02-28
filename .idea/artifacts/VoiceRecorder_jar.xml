@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VoiceRecorder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VoiceRecorder_jar</output-path>
+    <root id="archive" name="VoiceRecorder.jar">
+      <element id="module-output" name="VoiceRecorder" />
+    </root>
+  </artifact>
+</component>
